@@ -1,6 +1,6 @@
 # WDF_TEST_TASK
-Requirements:
-  pipenv 
+Requirements: \n
+  pipenv \n
  
 Navigate to the project folder ( so ls command will print the following output Pipfile.lock Pipfile wdf )
 Run the "pipenv shell" comamnd 
